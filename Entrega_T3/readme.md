@@ -5,7 +5,8 @@ Curso: 3º Ingeniería Informática A
 Grupo de Trabajo: Grupo D
 
 
-Problemas conocidos
+Problemas conocidos:
+
 Hemos encontrado una serie de problemas a la hora de hacer deploy en algunas ocasiones.
 Estos errores no eran cosa nuestra, sino de temas de como gestiona la caché Glassfish. Le
 rogamos que cuando vaya a evaluar nuestro proyecto, en caso de que lance alguna excepción
